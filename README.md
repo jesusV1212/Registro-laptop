@@ -14,5 +14,8 @@ para que no se pueda borrar.
 - **Entorno**: Solana Playground.
 
 
+
+
+
 ![Registro de laptop](Images/laptop.jpg)
 
