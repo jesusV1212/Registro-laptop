@@ -9,6 +9,12 @@ compuesta por:
 - **Firmante Autorizado:** La publicKey del owner, asegurando que solo el creador del registro tenga privilegios de
 escritura sobre equipos.
 
+## Administrar Espacio
+- **Especificaciones tecnicas:** Cadenas de texto (String) con límites definidos para marca, modelo, procesador y serie, evitando el desperdicio de lamports en la red.
+
+- **Inventario Dinamico** Un vector (Vec<Laptop>) con un máximo de 10 unidades, lo que permite almacenar múltiples equipos en una sola cuenta, optimizando el costo de almacenamiento en la blockchain de Solana..
+
+
 
 
  
