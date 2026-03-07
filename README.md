@@ -33,6 +33,30 @@ la blockchain.**
 - **Utilizar actualizar_laptop para modificar el procesador de un equipo existente (buscando por su modelo).**
 - **Usar eliminar_laptop para remover equipos que ya no requieran mantenimiento o seguimiento.**
 
+# 📋 Resultados
+
+Los datos se almacenan de forma descentralizada en la blockchain de Solana y pueden ser consultados en la sección de Accounts de tu programa. Un registro de inventario exitoso se visualiza de la siguiente manera:
+
+{
+  "owner": "9hmBa8YS5GgoC87oor3LUKvLXMMkbvFAcnKVu3Jn7VZ4",
+  "inventario": [
+    {
+      "marca": "ASUS",
+      "modelo": "vivobook",
+      "procesador": "i7-10510U",
+      "serie": "X512FAC",
+      "anio": 2020
+    },
+    {
+      "marca": "Dell",
+      "modelo": "saxy",
+      "procesador": "i5-11th Gen",
+      "serie": "Inspiron 3501",
+      "anio": 2021
+    }
+  ]
+}
+
 
 
 
