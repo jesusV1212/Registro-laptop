@@ -19,6 +19,8 @@ para que no se pueda borrar.
 
 # 📌 Instrucciones
 
+1. Registrar una Mascota
+
 
 
 
