@@ -20,6 +20,10 @@ para que no se pueda borrar.
 # 📌 Instrucciones
 
 1. **Registrar una nueva laptop**
+- **Ejecutar la función inicializar_registro para crear el espacio de almacenamiento en
+la blockchain.**
+
+
 
 
 
