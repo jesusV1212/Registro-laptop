@@ -37,26 +37,39 @@ la blockchain.**
 
 Los datos se almacenan de forma descentralizada en la blockchain de Solana y pueden ser consultados en la sección de Accounts de tu programa. Un registro de inventario exitoso se visualiza de la siguiente manera:
 
-{
-  "owner": "9hmBa8YS5GgoC87oor3LUKvLXMMkbvFAcnKVu3Jn7VZ4",
-  "inventario": [
-    {
-      "marca": "ASUS",
-      "modelo": "vivobook",
-      "procesador": "i7-10510U",
-      "serie": "X512FAC",
-      "anio": 2020
-    },
-    {
-      "marca": "Dell",
-      "modelo": "saxy",
-      "procesador": "i5-11th Gen",
-      "serie": "Inspiron 3501",
-      "anio": 2021
-    }
-  ]
-}
 
+```json
+[
+  {
+    "publicKey": "BCt8hotZJ8k5e9TUhB2uJDqKMrxe1mCAsosui6g4aXXS",
+    "account": {
+      "owner": "9hmBa8YS5gGoC87oor3LUKvLXMmkBvFAcnKVu3Jn7VZ4",
+      "inventario": [
+        {
+          "marca": "dell",
+          "modelo": "latitude",
+          "procesador": "corei9",
+          "serie": "12th",
+          "anio": 2022
+        },
+        {
+          "marca": "msi",
+          "modelo": "katana",
+          "procesador": "ultra7",
+          "serie": "gf",
+          "anio": 2024
+        },
+        {
+          "marca": "lenovo",
+          "modelo": "legion",
+          "procesador": "corei7",
+          "serie": "lenovo",
+          "anio": 2025
+        }
+      ]
+    }
+  }
+]
 
 
 
