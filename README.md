@@ -27,6 +27,7 @@ la blockchain.**
 
 2. **Registrar una nueva laptop**
 - **Usar la función agregar_laptop para dar de alta un equipo en el inventario.**
+- **Datos requeridos:** Se deben ingresar la marca, modelo, procesador, número de serie y el año del equipo.
 
 
 
