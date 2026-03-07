@@ -9,6 +9,10 @@ para que no se pueda borrar.
 
 # 🛠️ Tecnologias y Herramientas
 
+Lenguaje: Rust.
+Framework: Anchor.
+Entorno: Solana Playground.
+
 
 ![Registro de laptop](Images/laptop.jpg)
 
