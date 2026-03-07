@@ -29,6 +29,9 @@ la blockchain.**
 - **Usar la función agregar_laptop para dar de alta un equipo en el inventario.**
 - **Datos requeridos:** Se deben ingresar la marca, modelo, procesador, número de serie y el año del equipo.
 
+3. **Actualizar y Gestionar Componentes**
+- **Utilizar actualizar_laptop para modificar el procesador de un equipo existente (buscando por su modelo).**
+- **Usar eliminar_laptop para remover equipos que ya no requieran mantenimiento o seguimiento.**
 
 
 
