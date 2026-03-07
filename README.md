@@ -23,6 +23,8 @@ para que no se pueda borrar.
 - **Ejecutar la función inicializar_registro para crear el espacio de almacenamiento en
 la blockchain.**
 
+- **Semillas (Seeds): Se requiere la cadena exacta "registro" y la publicKey del administrador (owner).**
+
 
 
 
