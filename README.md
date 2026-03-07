@@ -14,7 +14,7 @@ para que no se pueda borrar.
 - **Entorno**: Solana Playground.
 
 # 📂 Archivos
-
+- **lib.rs**: Codigo del proyecto.
 
 
 
