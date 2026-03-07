@@ -15,7 +15,7 @@ para que no se pueda borrar.
 
 # 📂 Archivos
 - **lib.rs**: Codigo del proyecto.
-- **Registro-laptop.md**: Explicacion tecnica de como funciona el codigo CRUD + PDA.
+- **Registro-laptop.md**: Explicacion tecnica de como funciona el codigo (CRUD + PDA).
 
 # 📌 Instrucciones
 
