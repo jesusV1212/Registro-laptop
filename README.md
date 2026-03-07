@@ -19,5 +19,4 @@ para que no se pueda borrar.
 
 
 
-![Registro de laptop](Images/laptop.jpg)
 
