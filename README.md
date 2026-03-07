@@ -19,13 +19,14 @@ para que no se pueda borrar.
 
 # 📌 Instrucciones
 
-1. **Registrar una nueva laptop**
+1. **Inicializar el sistema de registro**
 - **Ejecutar la función inicializar_registro para crear el espacio de almacenamiento en
 la blockchain.**
 
 - **Semillas (Seeds): Se requiere la cadena exacta "registro" y la publicKey del administrador (owner).**
 
-
+2. **Registrar una nueva laptop**
+- **Usar la función agregar_laptop para dar de alta un equipo en el inventario.**
 
 
 
